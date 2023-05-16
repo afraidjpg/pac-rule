@@ -1,3 +1,5 @@
+
+# openai
 ||vimeocdn.com
 ||hcaptcha.com
 ||akamaized.net
